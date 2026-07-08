@@ -1,0 +1,49 @@
+body{
+  font-family: Arial, sans-serif;
+  background:#dff4ff;
+  text-align:center;
+  margin:20px;
+}
+
+h1{
+  color:#0066cc;
+}
+
+img{
+  width:260px;
+  border-radius:15px;
+}
+
+section{
+  background:white;
+  margin:20px auto;
+  padding:20px;
+  width:70%;
+  border-radius:10px;
+  box-shadow:0 0 10px lightgray;
+}
+
+ul{
+  text-align:left;
+  display:inline-block;
+}
+
+button{
+  background:#0066cc;
+  color:white;
+  border:none;
+  padding:12px 20px;
+  border-radius:8px;
+  font-size:16px;
+  cursor:pointer;
+}
+
+button:hover{
+  background:#004999;
+}
+
+#dato{
+  color:green;
+  font-size:20px;
+  font-weight:bold;
+}
